@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="es_project_title"><![CDATA[Casa Belgrano]]></data>
+  <data name="es_project_author_name"><![CDATA[DPozzi360]]></data>
+  <data name="es_project_author_url"><![CDATA[http://dpozzi360.com/360]]></data>
+
+
+
+  <data name="es_pano19_title"><![CDATA[Frente]]></data>
+
+
+  <data name="es_pano18_title"><![CDATA[Frente]]></data>
+
+
+  <data name="es_pano20_title"><![CDATA[Frente]]></data>
+
+
+  <data name="es_pano23_title"><![CDATA[Living]]></data>
+
+
+  <data name="es_pano24_title"><![CDATA[Living]]></data>
+
+
+  <data name="es_pano25_title"><![CDATA[Pasillo]]></data>
+
+
+  <data name="es_pano26_title"><![CDATA[Pasillo]]></data>
+
+
+  <data name="es_pano10_title"><![CDATA[Baño]]></data>
+
+
+  <data name="es_pano15_title"><![CDATA[Dormitorio]]></data>
+
+
+  <data name="es_pano14_title"><![CDATA[Dormitorio]]></data>
+
+
+  <data name="es_pano16_title"><![CDATA[Dormitorio]]></data>
+
+
+  <data name="es_pano11_title"><![CDATA[Cocina]]></data>
+
+
+  <data name="es_pano12_title"><![CDATA[Comedor]]></data>
+
+
+  <data name="es_pano13_title"><![CDATA[Comedor]]></data>
+
+
+  <data name="es_pano17_title"><![CDATA[Escritorio]]></data>
+
+
+  <data name="es_pano27_title"><![CDATA[Patio]]></data>
+
+
+  <data name="es_pano22_title"><![CDATA[Lavadero]]></data>
+
+
+  <data name="es_pano21_title"><![CDATA[Garage]]></data>
+
+
+
+
+	<data name="es_project_floor_title"><![CDATA[Casa Belgrano]]></data>
+	<data name="es_spotmap264_tooltip"><![CDATA[]]></data>
+	<data name="es_spotmap265_tooltip"><![CDATA[]]></data>
+	<data name="es_spotmap266_tooltip"><![CDATA[]]></data>
+	<data name="es_spotmap267_tooltip"><![CDATA[]]></data>
+	<data name="es_spotmap268_tooltip"><![CDATA[]]></data>
+	<data name="es_spotmap269_tooltip"><![CDATA[]]></data>
+	<data name="es_spotmap270_tooltip"><![CDATA[]]></data>
+	<data name="es_spotmap271_tooltip"><![CDATA[]]></data>
+	<data name="es_spotmap272_tooltip"><![CDATA[]]></data>
+	<data name="es_spotmap273_tooltip"><![CDATA[]]></data>
+	<data name="es_spotmap274_tooltip"><![CDATA[]]></data>
+	<data name="es_spotmap275_tooltip"><![CDATA[]]></data>
+	<data name="es_spotmap276_tooltip"><![CDATA[]]></data>
+	<data name="es_spotmap277_tooltip"><![CDATA[]]></data>
+	<data name="es_spotmap278_tooltip"><![CDATA[]]></data>
+	<data name="es_spotmap279_tooltip"><![CDATA[]]></data>
+	<data name="es_spotmap280_tooltip"><![CDATA[]]></data>
+	<data name="es_spotmap281_tooltip"><![CDATA[]]></data>
+
+
+  <data name="es_controlBar_classiczoomInTip"><![CDATA[Aproximar]]></data>
+  <data name="es_controlBar_classiczoomOutTip"><![CDATA[Alejar]]></data>
+  <data name="es_controlBar_classicmoveLeftTip"><![CDATA[Mover a la izquierda]]></data>
+  <data name="es_controlBar_classicmoveRightTip"><![CDATA[Mover a la Derecha]]></data>
+  <data name="es_controlBar_classicmoveUpTip"><![CDATA[Mover hacia Arriba]]></data>
+  <data name="es_controlBar_classicmoveDownTip"><![CDATA[Mover hacia Abajo]]></data>
+  <data name="es_controlBar_classicopenFsTip"><![CDATA[Introducir Pantalla Completa]]></data>
+  <data name="es_controlBar_classiccloseFsTip"><![CDATA[Salir de Pantalla completa]]></data>
+  <data name="es_controlBar_classicshowThumbnailsTip"><![CDATA[Mostrar Miniaturas]]></data>
+  <data name="es_controlBar_classichideThumbnailsTip"><![CDATA[Ocultar Miniaturas]]></data>
+  <data name="es_controlBar_classicgyroOnTip"><![CDATA[Activar Giróscopo]]></data>
+  <data name="es_controlBar_classicgyroOffTip"><![CDATA[Desactivar Giróscopo]]></data>
+  <data name="es_controlBar_classicgyroNotTip"><![CDATA[El giroscopio no está disponible]]></data>
+  <data name="es_controlBar_classicdisplayFloorplanTip"><![CDATA[Mostrar Plano]]></data>
+  <data name="es_controlBar_classichideFloorplanTip"><![CDATA[Ocultar Plano]]></data>
+  <data name="es_controlBar_classicdisplayHelpTip"><![CDATA[Mostrar Pantalla de Ayuda]]></data>
+  <data name="es_controlBar_classichideHelpTip"><![CDATA[Ocultar Pantalla de Ayuda]]></data>
+  <data name="es_controlBar_classicenterVRTip"><![CDATA[Modo VR]]></data>
+  <data name="es_controlBar_classicenterVRNotTip"><![CDATA[El modo VR no está disponible ]]></data>
+  <data name="es_controlBar_classicdisplayControlsTip"><![CDATA[Mostrar Controles]]></data>
+  <data name="es_controlBar_classichideControlsTip"><![CDATA[Ocultar los Controles]]></data>
+  <data name="es_logowebsiteurl"><![CDATA[]]></data>
+  <data name="es_logotooltipText"><![CDATA[Abrir sitio web]]></data>
+  <data name="es_floorPlandisplay_close_text"><![CDATA[Cerrar]]></data>
+
+
+  <data name="es_vr_setup_hmd0"><![CDATA[SELECCIONE SU HMD]]></data>
+  <data name="es_vr_setup_advanced"><![CDATA[CONFIGURACIÓN AVANZADA]]></data>
+  <data name="es_vr_setup_title"><![CDATA[CONFIGURACIÓN WEB VR]]></data>
+  <data name="es_vr_setup_dvn1"><![CDATA[Dispositivo:]]></data>
+  <data name="es_vr_setup_siz1"><![CDATA[Tamaño de pantalla:]]></data>
+  <data name="es_vr_setup_ipd1"><![CDATA[IPD:]]></data>
+  <data name="es_vr_setup_hmd1"><![CDATA[HMD:]]></data>
+  <data name="es_vr_setup_hmd3"><![CDATA[Personalizar]]></data>
+  <data name="es_vr_setup_cal"><![CDATA[Calibrar el giroscopio]]></data>
+  <data name="es_vr_setup_sav"><![CDATA[GUARDAR]]></data>
+  <data name="es_vr_setup_rst"><![CDATA[REINICIO]]></data>
+  <data name="es_vr_setup_simple"><![CDATA[SIMPLE]]></data>
+  <data name="es_vr_setup_cls"><![CDATA[CERRAR]]></data>
+  <data name="es_vr_setup_m31"><![CDATA[CONFIGURACIÓN HMD]]></data>
+  <data name="es_vr_setup_fov1"><![CDATA[FOV:]]></data>
+  <data name="es_vr_setup_dst1"><![CDATA[Distorsión:]]></data>
+  <data name="es_vr_setup_d2tx"><![CDATA[Distorsión 2:]]></data>
+  <data name="es_vr_setup_vig1"><![CDATA[Viñeteado:]]></data>
+  <data name="es_vr_setup_cac1"><![CDATA[Aberración cromática:]]></data>
+  <data name="es_vr_setup_olp1"><![CDATA[Superposición:]]></data>
+  <data name="es_vr_setup_m35"><![CDATA[RETORNO]]></data>
+  <data name="es_vr_setup_cb1"><![CDATA[GIROSCOPIO]]></data>
+  <data name="es_vr_setup_cb2"><![CDATA[Coloque el dispositivo sobre una superficie plana y [br ] y estable y pulse CALIBRAR[br] para corregir la deriva del giroscopio.]]></data>
+  <data name="es_vr_setup_cb3"><![CDATA[CALIBRAR]]></data>
+  <data name="es_vr_setup_cb4"><![CDATA[REINICIO]]></data>
+  <data name="es_vr_setup_cb5"><![CDATA[RETORNO]]></data>
+  <data name="es_vr_setup_cb6"><![CDATA[Calibrando...]]></data>
+  <data name="es_vr_setup_cb7"><![CDATA[Calibración exitosa]]></data>
+  <data name="es_vr_setup_cb8"><![CDATA[Calibración fracasada]]></data>
+  <data name="es_vr_setup_unavailable"><![CDATA[El modo VR no está disponible en tu dispositivo]]></data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</krpano>
